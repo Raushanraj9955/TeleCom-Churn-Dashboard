@@ -307,11 +307,6 @@ The dashboard provides a complete overview of customer churn through:
 
 The clean and interactive layout enables users to quickly identify important churn patterns and business insights from a single report page.
 
----
-
-## 🚀 Key Insight
-
-> **The Telecom Customer Churn Dashboard transforms raw customer data into actionable insights, helping telecommunications businesses understand customer behavior, identify churn risk, and build more effective customer retention strategies.**
 
 # 🖼️ **Dashboard Preview:** A Power BI dashboard providing interactive insights into customer churn, demographics, account information, subscribed services, and internet usage.
-Example:
+Example: ![Dashboard Preview](https://github.com/Raushanraj9955/TeleCom-Churn-Dashboard/blob/main/Telecom%20Churn%20Dashboard%20SS.png)
